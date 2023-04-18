@@ -1,0 +1,6 @@
+__pycache__/
+analyses/
+error_log_CoAct.txt
+extract_questions.py
+misc/
+speaker_info/
