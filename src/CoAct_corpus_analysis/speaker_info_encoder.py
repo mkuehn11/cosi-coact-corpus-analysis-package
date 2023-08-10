@@ -10,6 +10,5 @@ Returns:
 class SpeakerInfoEncoder(json.JSONEncoder):
     def default(self, speaker_obj):
         return [speaker_obj.get_interval(),
-        speaker_obj.get_transcript(),
         speaker_obj.get_overlaps()
         ]

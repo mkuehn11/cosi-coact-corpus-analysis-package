@@ -4,9 +4,16 @@ import matplotlib.pyplot as plt
 import numpy as np
 from d3blocks import D3Blocks
 
-#TODO relative numbers
 
 def plot_cooccurrence_matrix(matrix, sa, out_dir):
+
+    """
+        Heatmap showing all the temporal co-occurrences between facial signals for ONE social action.
+
+    Input:
+
+        matrix: DataFrame with all the co-occurences of facial signals with each other.
+    """
     
     #melt upper triangle of matrix
     lower_matrix = matrix.where(np.tril(np.ones(matrix.shape)).astype(np.bool))
@@ -25,6 +32,14 @@ def plot_cooccurrence_matrix(matrix, sa, out_dir):
     plt.close()
 
 def plot_chord_diagram(matrix, sa, out_dir):
+
+    """
+        Chord diagram showing all the temporal co-occurrences between facial signals for ONE social action.
+
+    Input:
+
+        matrix: DataFrame with all the co-occurences of facial signals with each other.
+    """
     
     d3 = D3Blocks(chart='Chord', frame=False)
 

@@ -1,0 +1,8 @@
+{"n_questions_A": 10,
+"n_questions_B": 22,
+"n_responses_A": 16,
+"n_responses_B": 10,
+"n_overlaps_AQ1": ["AP", "NR", "polar", "non-clausal"],
+"n_overlaps_BQ6":  ["NDOS", "OL", "away", "content", "NA"],
+"n_overlaps_BR9":  ["away", "blink"],
+"n_overlaps_AR12":  ["blink"]}

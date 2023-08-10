@@ -1,0 +1,1618 @@
+{
+    "speaker_ID": "B",
+    "condition": "task1",
+    "dyad": "01",
+    "linked_file": "./corpus_analysis_package/tests/test_input.eaf",
+    "questions": [
+        [
+            [
+                2800,
+                3836
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        2800,
+                        3840,
+                        "OIR"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        2800,
+                        3840,
+                        "PU"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        2800,
+                        3836,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        2800,
+                        3836,
+                        "non-clausal"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [
+                    [
+                        2680,
+                        3080,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        2760,
+                        3680,
+                        "raised"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [
+                    [
+                        1360,
+                        5840,
+                        "smile"
+                    ]
+                ],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                8539,
+                10431
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        8539,
+                        10431,
+                        "SIMCA"
+                    ]
+                ],
+                "2_SA_category_B": [
+                    [
+                        8539,
+                        10431,
+                        "SIMCA"
+                    ]
+                ],
+                "1_SA_type_B": [
+                    [
+                        8539,
+                        10431,
+                        "TI"
+                    ]
+                ],
+                "2_SA_type_B": [
+                    [
+                        8539,
+                        10431,
+                        "PRE"
+                    ]
+                ],
+                "Q_type_B": [
+                    [
+                        8539,
+                        10431,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        8539,
+                        10431,
+                        "tag"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        8320,
+                        10000,
+                        "raised"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [
+                    [
+                        9960,
+                        10440,
+                        "smile"
+                    ]
+                ],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                50558,
+                51642
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        50558,
+                        51642,
+                        "AP"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        50558,
+                        51642,
+                        "DSI"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        50558,
+                        51642,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        50558,
+                        51642,
+                        "non-clausal"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [
+                    [
+                        50440,
+                        56160,
+                        "squint"
+                    ]
+                ],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        50440,
+                        52800,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": [
+                    [
+                        50920,
+                        52120,
+                        "thinking-face"
+                    ]
+                ]
+            }
+        ],
+        [
+            [
+                52450,
+                53375
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        52450,
+                        53375,
+                        "EAS"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        52450,
+                        53375,
+                        "CH"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        52450,
+                        53375,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        52450,
+                        53375,
+                        "declarative"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [
+                    [
+                        50440,
+                        56160,
+                        "squint"
+                    ]
+                ],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        50440,
+                        52800,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                86135,
+                86531
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        86135,
+                        86531,
+                        "OIR"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        86135,
+                        86531,
+                        "PU"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        86135,
+                        86531,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        86135,
+                        86531,
+                        "non-clausal"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                155147,
+                155480
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        155147,
+                        155480,
+                        "NDOS"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        155147,
+                        155480,
+                        "OL"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        155147,
+                        155480,
+                        "content"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        155147,
+                        155480,
+                        "NA"
+                    ]
+                ],
+                "Gaze_B": [
+                    [
+                        154840,
+                        155640,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                173298,
+                176166
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        173298,
+                        176166,
+                        "MU"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        173298,
+                        176166,
+                        "CHECK"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        173298,
+                        176166,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        173298,
+                        176166,
+                        "tag"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [
+                    [
+                        173560,
+                        177720,
+                        "squint"
+                    ]
+                ],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": [
+                    [
+                        174000,
+                        176160,
+                        "thinking-face"
+                    ]
+                ]
+            }
+        ],
+        [
+            [
+                281366,
+                282837
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        281366,
+                        282837,
+                        "PA"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        281366,
+                        282837,
+                        "ACTD"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        281366,
+                        282837,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        281366,
+                        282837,
+                        "tag"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        282080,
+                        283600,
+                        "raised"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                334501,
+                336640
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        334501,
+                        336640,
+                        "EAS"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        334501,
+                        336640,
+                        "SCA"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        334501,
+                        336640,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        334501,
+                        336640,
+                        "declarative"
+                    ]
+                ],
+                "Gaze_B": [
+                    [
+                        334600,
+                        336040,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [
+                    [
+                        334080,
+                        334680,
+                        "blink"
+                    ],
+                    [
+                        334880,
+                        336200,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [
+                    [
+                        334720,
+                        335000,
+                        "squint"
+                    ]
+                ],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        334680,
+                        335200,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": [
+                    [
+                        334840,
+                        335080,
+                        "thinking-face"
+                    ]
+                ]
+            }
+        ],
+        [
+            [
+                378355,
+                379529
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        378355,
+                        379529,
+                        "OIR"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        378355,
+                        379529,
+                        "PU"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        378355,
+                        379529,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        378355,
+                        379529,
+                        "interrogative"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                380776,
+                383800
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        380776,
+                        383800,
+                        "EAS"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        380776,
+                        383800,
+                        "DIAG"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        380776,
+                        383800,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        380776,
+                        383800,
+                        "tag"
+                    ]
+                ],
+                "Gaze_B": [
+                    [
+                        380120,
+                        381560,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [
+                    [
+                        380960,
+                        381680,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        383280,
+                        384040,
+                        "raised"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                399514,
+                400378
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        399514,
+                        400378,
+                        "EAS"
+                    ]
+                ],
+                "2_SA_category_B": [
+                    [
+                        399514,
+                        400378,
+                        "MU"
+                    ]
+                ],
+                "1_SA_type_B": [
+                    [
+                        399514,
+                        400378,
+                        "COR"
+                    ]
+                ],
+                "2_SA_type_B": [
+                    [
+                        399514,
+                        400378,
+                        "SI"
+                    ]
+                ],
+                "Q_type_B": [
+                    [
+                        399514,
+                        400378,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        399514,
+                        400378,
+                        "declarative"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        400240,
+                        402960,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                402440,
+                403173
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        402440,
+                        403173,
+                        "EAS"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        402440,
+                        403173,
+                        "JH"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        402440,
+                        403173,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        402440,
+                        403173,
+                        "tag"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        400240,
+                        402960,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [
+                    [
+                        402840,
+                        403160,
+                        "smile"
+                    ]
+                ],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                452240,
+                453855
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        452240,
+                        453855,
+                        "EAS"
+                    ]
+                ],
+                "2_SA_category_B": [
+                    [
+                        452240,
+                        453855,
+                        "EAS"
+                    ]
+                ],
+                "1_SA_type_B": [
+                    [
+                        452240,
+                        453855,
+                        "SCA"
+                    ]
+                ],
+                "2_SA_type_B": [
+                    [
+                        452240,
+                        453855,
+                        "DIAG"
+                    ]
+                ],
+                "Q_type_B": [
+                    [
+                        452240,
+                        453855,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        452240,
+                        453855,
+                        "tag"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [
+                    [
+                        452160,
+                        455680,
+                        "squint"
+                    ]
+                ],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        452120,
+                        456240,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                455575,
+                456582
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        455575,
+                        456582,
+                        "RI"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        455575,
+                        456582,
+                        "FS"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        455575,
+                        456582,
+                        "content"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        455575,
+                        456582,
+                        "NA"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [
+                    [
+                        452160,
+                        455680,
+                        "squint"
+                    ]
+                ],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        452120,
+                        456240,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                493517,
+                494652
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        493517,
+                        494652,
+                        "RI"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        493517,
+                        494652,
+                        "RCI"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        493517,
+                        494652,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        493517,
+                        494652,
+                        "tag"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [
+                    [
+                        494560,
+                        494840,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [
+                    [
+                        492760,
+                        494920,
+                        "squint"
+                    ]
+                ],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                499893,
+                500263
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        499893,
+                        500263,
+                        "RI"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        499893,
+                        500263,
+                        "RE"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        499893,
+                        500263,
+                        "content"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        499893,
+                        500263,
+                        "NA"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                516225,
+                519123
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        516225,
+                        519123,
+                        "RI"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        516225,
+                        519123,
+                        "FS"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        516225,
+                        519123,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        516225,
+                        519123,
+                        "interrogative"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                555225,
+                555758
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        555225,
+                        555758,
+                        "EAS"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        555225,
+                        555758,
+                        "CH"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        555225,
+                        555758,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        555225,
+                        555758,
+                        "interrogative"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [
+                    [
+                        555160,
+                        557280,
+                        "squint"
+                    ]
+                ],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        555120,
+                        559560,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": [
+                    [
+                        555520,
+                        556480,
+                        "thinking-face"
+                    ]
+                ]
+            }
+        ],
+        [
+            [
+                560828,
+                563610
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        560828,
+                        563610,
+                        "RI"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        560828,
+                        563610,
+                        "FS"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        560828,
+                        563610,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        560828,
+                        563610,
+                        "interrogative"
+                    ]
+                ],
+                "Gaze_B": [
+                    [
+                        560440,
+                        562680,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [
+                    [
+                        562080,
+                        562760,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        561520,
+                        565560,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                564612,
+                565317
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        564612,
+                        565317,
+                        "MU"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        564612,
+                        565317,
+                        "CHECK"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        564612,
+                        565317,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        564612,
+                        565317,
+                        "non-clausal"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        561520,
+                        565560,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                565365,
+                565840
+            ],
+            {
+                "1_SA_category_B": [
+                    [
+                        565365,
+                        565840,
+                        "MU"
+                    ]
+                ],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [
+                    [
+                        565365,
+                        565840,
+                        "CHECK"
+                    ]
+                ],
+                "2_SA_type_B": [],
+                "Q_type_B": [
+                    [
+                        565365,
+                        565840,
+                        "polar"
+                    ]
+                ],
+                "PQ_type_B": [
+                    [
+                        565365,
+                        565840,
+                        "non-clausal"
+                    ]
+                ],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        561520,
+                        565560,
+                        "frown"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ]
+    ],
+    "responses": [
+        [
+            [
+                18267,
+                20280
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [],
+                "Blink_B": [
+                    [
+                        17880,
+                        18360,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                37419,
+                38673
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [
+                    [
+                        37760,
+                        38800,
+                        "wider"
+                    ]
+                ],
+                "Eyebrows_B": [
+                    [
+                        37400,
+                        39120,
+                        "raised"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                66440,
+                66593
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [
+                    [
+                        66400,
+                        67160,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                105090,
+                108457
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [
+                    [
+                        104480,
+                        105920,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [
+                    [
+                        105720,
+                        106000,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        107600,
+                        107920,
+                        "raised"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                131599,
+                132678
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [
+                    [
+                        131480,
+                        132440,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [
+                    [
+                        131280,
+                        131640,
+                        "blink"
+                    ],
+                    [
+                        131840,
+                        132560,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                145644,
+                145853
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                200359,
+                200523
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [],
+                "Blink_B": [],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                418139,
+                419218
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [
+                    [
+                        417960,
+                        418720,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [
+                    [
+                        418280,
+                        418880,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [
+                    [
+                        418160,
+                        420440,
+                        "raised"
+                    ]
+                ],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                432604,
+                433893
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [
+                    [
+                        432120,
+                        432840,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [
+                    [
+                        432600,
+                        432880,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ],
+        [
+            [
+                514279,
+                516132
+            ],
+            {
+                "1_SA_category_B": [],
+                "2_SA_category_B": [],
+                "1_SA_type_B": [],
+                "2_SA_type_B": [],
+                "Q_type_B": [],
+                "PQ_type_B": [],
+                "Gaze_B": [
+                    [
+                        513080,
+                        515880,
+                        "away"
+                    ]
+                ],
+                "Blink_B": [
+                    [
+                        515520,
+                        515920,
+                        "blink"
+                    ]
+                ],
+                "Squint_B": [],
+                "Eyes-widening_B": [],
+                "Eyebrows_B": [],
+                "Nose-wrinkle_B": [],
+                "Mouth_B": [],
+                "Group_B": []
+            }
+        ]
+    ]
+}

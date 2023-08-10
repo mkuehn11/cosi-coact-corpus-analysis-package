@@ -3,7 +3,6 @@ import pandas as pd
 from ast import literal_eval
 
 def melt_and_explode_column(df, value_name, literal_eval_for_col = True):
-    ''' summary'''
     
     #melt the dataframe - stacks all columns vertically
     melt_df = pd.melt(df, value_name=value_name)
@@ -19,7 +18,7 @@ def melt_and_explode_column(df, value_name, literal_eval_for_col = True):
 
 
 def get_percentage_column(df, drop_zeros = True):
-    ''' summary'''
+    
     prct_cols = [col for col in df if 'prct' in col] #all the percentages for each tier
 
     prct_df = melt_and_explode_column(df = pd.concat([df[prct_cols]]), 
@@ -35,7 +34,7 @@ def get_percentage_column(df, drop_zeros = True):
     
      
 def get_label_column(df, drop_zeros = True):
-    ''' summary'''
+    
     label_cols = [col for col in df if 'label' in col] #all the labels for each tier
     
     label_df = melt_and_explode_column(df = pd.concat([df[label_cols]]), 
@@ -59,7 +58,6 @@ def get_question_timings(df, timing_cols):
     return question_timing
 
 def get_timing_df(df):
-    ''' summary'''
     
     timing_cols = [col for col in df if 'start_end' in col] #all the timings of the overlapping labels for each tier
     
@@ -78,8 +76,9 @@ def get_timing_df(df):
     return timing_df
 
 def exclude_blinks(df, out_file):
-    '''summary'''
-    
+    """ This is a function to exclude blinks which are shorter than 410ms. 
+    The reason for this is that all the blinks in the corpus are annotated but not everything is equally meaningful."""
+
     #filter blink durations
     short_blinks = df.loc[(df['tier'] == 'Blink') & (df['label_dur'] < 410)]
     short_blinks.to_csv(out_file)
@@ -92,7 +91,6 @@ def exclude_blinks(df, out_file):
 
 def add_onset_difference(df):
     
-    '''sumamry'''
     
     #split the tuple columns of on_offset into separate start and end columns
     label_on_offset = pd.DataFrame(df['label_on_offset'].tolist(), columns=['label_start', 'label_end'])

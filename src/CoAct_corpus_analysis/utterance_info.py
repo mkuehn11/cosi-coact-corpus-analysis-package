@@ -1,15 +1,15 @@
-class QuestionInfo:
+class UtteranceInfo:
     
     """
-        This is a question class which holds information about the onset, offset, text transcript and overlaps of each question.
+        This is an utterane class which holds information about the onset, offset, text transcript and overlaps of each utterance (i.e. questions or responses).
     """
     
-    def __init__(self, ID, interval, transcript):
-        self.ID = ID                    #question index (as in ELAN, starting at 1)
-        self.interval = interval        #start, end in ms, tuple
-        self.transcript = transcript    #plain text transcript
-        self.overlaps = {}              #overlaps with other tiers
-    
+    def __init__(self, ID, interval):
+        self.ID = ID                                #index (as in ELAN, starting at 1)
+        self.interval = interval                    #start, end in ms, tuple
+        self.overlaps = {}                          #overlaps with other tiers
+
+
     def get_ID(self):
         return self.ID
     
